@@ -1,1 +1,2 @@
-# crypto
+# MENDIX
+My solana token
